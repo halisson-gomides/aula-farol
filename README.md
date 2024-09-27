@@ -28,4 +28,4 @@ Exploraremos um pouco mais o poder da [linguagem de programação mais utilizada
     - `python -m pip install --upgrade pip`
     - `pip install <nome_biblioteca1> <nome_biblioteca2> ...`
 9. Criar o arquivo `.gitignore` na raiz do diretório criado e adicionar:
-    - `env_farol/`
+    - `app/env_farol/**`
