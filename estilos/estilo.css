@@ -11,3 +11,8 @@ p {
     background-color: black;
     margin-top: -10px;
 }
+
+.negrito {
+    font-weight: bolder;
+    color:aqua;
+}
